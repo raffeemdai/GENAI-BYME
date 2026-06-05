@@ -27,3 +27,37 @@ https://www.programiz.com/python-programming/property
 
 
 
+
+
+#############333
+
+1.inheritance in python read :
+https://github.com/asquarezone/Python/commit/c975a68ec403ffb8cb6d1026838e57524813ceb9
+https://github.com/asquarezone/Python/blob/main/Feb26/basics/objectoriented/inhertience/explanation.ipynb
+2.Inheritence vs Composition  : Head to Head comparision
+https://github.com/asquarezone/Python/blob/main/Feb26/basics/objectoriented/compositon/explanation.ipynb
+3.Designing object oriented applications
+Point of Sale System
+Preview
+
+At a generic level, We have
+
+Item
+Cart
+Payment
+Bill
+This is a generic view of our low level design
+4. Abstract Classes
+Video Player Example
+https://github.com/asquarezone/Python/commit/be94284adb86fa5db3584e820bb1d6459323942b
+https://github.com/asquarezone/Python/commit/6cf778a15ad0f9f743616c9ad5828d29bdc7af25
+https://github.com/asquarezone/Python/commit/edab2d557fcbb08f2fa338298de16eafa5382d0b
+https://github.com/asquarezone/Python/blob/main/Feb26/basics/objectoriented/abstractions/example.ipynb
+5. Overloading and Overriding
+
+6.Duck Typing
+https://github.com/asquarezone/Python/blob/main/Feb26/basics/objectoriented/abstractions/example.ipynb
+7. Properties, Access modifiers
+Give me python access modifier equivalents in a tabular form
+https://www.programiz.com/python-programming/property
+8. SOLID Principles
