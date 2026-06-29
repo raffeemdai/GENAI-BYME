@@ -1,5 +1,5 @@
 read the below python fastapi transacript and prepare material with examples in simpleway easy to understand"
-
+github for code : https://github.com/teluskoOrg/FastAPI/tree/main
 
 In this video, I'll teach you fast API by working through a real project. I'll go over everything from the absolute basics to some more advanced concepts
 like setting up authentication, logging in various users, connecting to a database, and all of the components that you actually need if you want to build a real production
